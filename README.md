@@ -1,2 +1,2 @@
 Ime mi je
-# Ra-unalni-ki-praktikum
+# Racunalniski-praktikum
