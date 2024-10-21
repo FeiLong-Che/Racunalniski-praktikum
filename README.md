@@ -1,2 +1,2 @@
-Ime mi je
-# Racunalniski-praktikum
+
+# Računalniški-praktikum
